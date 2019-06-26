@@ -1,0 +1,117 @@
+{
+  "restaurant": [
+    {
+      "name": "green channel",
+      "location": "gorai, borivali, mumbai",
+      "cusine": "indian, snacks, chinese",
+      "phone": "8452365478",
+      "rating": "4.5",
+      "menu": [
+        {
+          "name": "cakes",
+          "price": "40"
+        },
+        {
+          "name": "cholocate",
+          "price": "20"
+        }
+      ]
+    },
+    {
+      "name": "hot channel",
+      "location": "gorai, borivali, mumbai",
+      "cusine": "indian, american, chinese",
+      "phone": "8452365478",
+      "rating": "4.5",
+      "menu": [
+        {
+          "name": "swwerrt",
+          "price": "40"
+        },
+        {
+          "name": "ddgg",
+          "price": "20"
+        }
+      ]
+    },
+    {
+      "name": "hot channel",
+      "location": "gorai, borivali, mumbai",
+      "cusine": "indian, american, chinese",
+      "phone": "8452365478",
+      "rating": "4.5",
+      "menu": [
+        {
+          "name": "swwerrt",
+          "price": "40"
+        },
+        {
+          "name": "ddgg",
+          "price": "20"
+        }
+      ]
+    },
+    {
+      "name": "asdfdsf",
+      "id": 1
+    },
+    {
+      "name": "dsfsdf",
+      "id": 2
+    },
+    {
+      "name": "adfsdf",
+      "id": 3
+    },
+    {
+      "name": "sdf",
+      "location": "sdf",
+      "cusine": "sdf",
+      "phone": "sdf",
+      "rating": "sdf",
+      "id": 4
+    },
+    {
+      "name": "hot meals",
+      "location": "borivali mumbai",
+      "cusine": "veg non veg",
+      "phone": "8745698542",
+      "rating": "5",
+      "menu": [
+        {
+          "name": "soda ",
+          "price": "55"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "dosa center",
+      "location": "andheri kamla mill",
+      "cusine": "south indian",
+      "phone": "4578966542",
+      "rating": "3.6",
+      "menu": [
+        {
+          "name": "masala dosa ",
+          "price": "55"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "dosa center",
+      "location": "andheri kamla mill",
+      "cusine": "south indian",
+      "phone": "4578966542",
+      "rating": "3.6",
+      "menu": [
+        {
+          "name": "masala dosa ",
+          "price": "55"
+        }
+      ],
+      "id": 7
+    }
+  ]
+}
